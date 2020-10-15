@@ -124,8 +124,7 @@ app.all('*', function(req, res, next) {
 ```
 
 可能会出现异常：
-
-![image-20201015161205595](C:\Users\artian\AppData\Roaming\Typora\typora-user-images\image-20201015161205595.png)
+![0T07Ss.png](https://s1.ax1x.com/2020/10/15/0T07Ss.png)
 
 解决方法:https://blog.csdn.net/qq_38734862/article/details/105127598
 
